@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cv9CL54BrCQN3jNidg7o7u3ffqQMCd0HGUl4OmYK3L7Hg4swiMopTxPoIlRzhB5N331tsrJJWcIwsMZi98/SeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\Desktop\\Personal github\\BankAppWithUnitTesting\\Week_3_BankApp\\Week_3_BankApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
